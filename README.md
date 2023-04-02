@@ -1,3 +1,3 @@
-# samsheokad.github.io
+# shivamsheokand.github.io
 my site
-- [Home](https://samsheokad.github.io/index.html)
+- [Home](https://shivamsheokand.github.io/index.html)

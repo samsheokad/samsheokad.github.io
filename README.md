@@ -44,4 +44,4 @@ I'm always open to collaborations, discussions, and new opportunities. Feel free
 Thanks for stopping by and checking out my work!
 
 
-- [Home](https://shivamsheokand.github.io/index.html)
+- [Go Home](https://shivamsheokand.github.io/index.html)

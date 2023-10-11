@@ -73,8 +73,3 @@ button:active {
   transition: box-shadow 0.2s ease-in;
 }
 
-.download{
-  /* justify-content: flex-center; */
-  /* align-items:baseline; */
-  margin-left: 42%;
-}
